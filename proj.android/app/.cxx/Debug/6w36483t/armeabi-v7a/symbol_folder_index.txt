@@ -1,0 +1,1 @@
+/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/proj.android/app/build/intermediates/cxx/Debug/6w36483t/obj/armeabi-v7a

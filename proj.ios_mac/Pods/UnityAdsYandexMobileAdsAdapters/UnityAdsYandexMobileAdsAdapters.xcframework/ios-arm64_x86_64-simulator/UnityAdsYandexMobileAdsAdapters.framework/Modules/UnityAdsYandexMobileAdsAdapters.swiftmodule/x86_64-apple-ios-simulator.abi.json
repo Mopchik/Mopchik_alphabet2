@@ -1,0 +1,60 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UnityAds",
+        "printedName": "UnityAds",
+        "declKind": "Import",
+        "moduleName": "UnityAdsYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "UnityAdsYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UnityAdsYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "UnityAdsYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/UnityAdsYandexMobileAdsAdapters\/Sources\/Private\/YMAUnityAdsMediatedBannerSizeResolver.swift",
+      "kind": "StringLiteral",
+      "offset": 1126,
+      "length": 7,
+      "value": "\"width\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/UnityAdsYandexMobileAdsAdapters\/Sources\/Private\/YMAUnityAdsMediatedBannerSizeResolver.swift",
+      "kind": "StringLiteral",
+      "offset": 1169,
+      "length": 8,
+      "value": "\"height\""
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/proj.android/app/build/intermediates/cxx/RelWithDebInfo/s3e4e424/obj/arm64-v8a

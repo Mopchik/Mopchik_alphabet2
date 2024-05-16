@@ -1,0 +1,15 @@
+framework module YandexMobileAdsAdMobAdapters {
+    umbrella header "YandexMobileAdsAdMobAdapters-umbrella.h"
+    
+    export *
+    module * { export * }
+    
+    header "YMAAdMobNativeAdExtraAssets.h"
+    header "YMAYandexAdMobVersion.h"
+}
+
+module YandexMobileAdsAdMobAdapters.Swift {
+    header "YandexMobileAdsAdMobAdapters-Swift.h"
+    requires objc
+}
+

@@ -1,0 +1,134 @@
+C/C++ Structured LogI
+G
+E/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/CMakeLists.txtC
+A
+?com.android.build.gradle.internal.cxx.io.EncodedFileFingerPrint	ëî‚ø1¡1 ¡ÍáÉ÷1h
+f
+d/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cmake/Modules/CocosBuildHelpers.cmake	ëî‚ø1¼m —¶‚È÷1d
+b
+`/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cmake/Modules/CocosBuildSet.cmake	ëî‚ø1Æ	  à¨Ø-h
+f
+d/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cmake/Modules/CocosConfigDefine.cmake	ëî‚ø1æ" Àˆ²«-h
+f
+d/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cmake/Modules/CocosConfigDepend.cmake	ëî‚ø1   ‡›±©-Z
+X
+V/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/2d/CMakeLists.txt	ëî‚ø1à  ‡›±©-Z
+X
+V/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/3d/CMakeLists.txt	ëî‚ø1‡  ‡›±©-W
+U
+S/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/CMakeLists.txt	ëî‚ø1	ê/ Àˆ²«-]
+[
+Y/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/audio/CMakeLists.txt	ëî‚ø1
+”3  ‡›±©-\
+Z
+X/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/base/CMakeLists.txt	ëî‚ø1€ Àˆ²«-b
+`
+^/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/deprecated/CMakeLists.txt	ëî‚ø1  ‡›±©-s
+q
+o/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/editor-support/cocosbuilder/CMakeLists.txt	ëî‚ø1ã  ‡›±©-q
+o
+m/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/editor-support/cocostudio/CMakeLists.txt	ëî‚ø1¿S  à¨Ø-l
+j
+h/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/editor-support/spine/CMakeLists.txt	ëî‚ø1ƒ  ‡›±©-\
+Z
+X/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/math/CMakeLists.txt	ëî‚ø1ˆ €´å’ú,_
+]
+[/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/navmesh/CMakeLists.txt	ëî‚ø1ì €´å’ú,_
+]
+[/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/network/CMakeLists.txt	ëî‚ø1õ	 €´å’ú,_
+]
+[/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/physics/CMakeLists.txt	ëî‚ø1¡ €´å’ú,a
+_
+]/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/physics3d/CMakeLists.txt	ìî‚ø1ø €´å’ú,`
+^
+\/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/platform/CMakeLists.txt	ìî‚ø1©/ Àˆ²«-h
+f
+d/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/platform/android/CMakeLists.txt	ìî‚ø1Å Àˆ²«-`
+^
+\/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/renderer/CMakeLists.txt	ìî‚ø1¥  ‡›±©-_
+]
+[/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/storage/CMakeLists.txt	ìî‚ø1’ ĞÃå’ú,Z
+X
+V/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/ui/CMakeLists.txt	ìî‚ø1À   ‡›±©-Z
+X
+V/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/vr/CMakeLists.txt	ìî‚ø1ù  ‡›±©-\
+Z
+X/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/extensions/CMakeLists.txt	ìî‚ø1ğ   ‡›±©-`
+^
+\/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/Box2D/CMakeLists.txt	ìî‚ø1Î °ÿ’Ó«-Z
+X
+V/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/CMakeLists.txt	ìî‚ø1© °ÿ’Ó«-e
+c
+a/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/ConvertUTF/CMakeLists.txt	ìî‚ø1² °ÿ’Ó«-w
+u
+s/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/android-specific/cpufeatures/CMakeLists.txt	ìî‚ø1… °ÿ’Ó«-t
+r
+p/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/android-specific/pvmp3dec/CMakeLists.txt	ìî‚ø1 ¼ °ÿ’Ó«-s
+q
+o/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/android-specific/tremolo/CMakeLists.txt	ìî‚ø1!Â °ÿ’Ó«-a
+_
+]/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/bullet/CMakeLists.txt	ìî‚ø1"  €“Ó«-c
+a
+_/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/chipmunk/CMakeLists.txt	ìî‚ø1#¹ €“Ó«-b
+`
+^/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/clipper/CMakeLists.txt	ìî‚ø1$– €“Ó«-k
+i
+g/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/cmake/CocosExternalConfig.cmake	ìî‚ø1%¼	 €“Ó«-_
+]
+[/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/curl/CMakeLists.txt	ìî‚ø1&ó €“Ó«-e
+c
+a/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/edtaa3func/CMakeLists.txt	ìî‚ø1'œ €“Ó«-d
+b
+`/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/freetype2/CMakeLists.txt	ìî‚ø1(ì €“Ó«-_
+]
+[/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/jpeg/CMakeLists.txt	ìî‚ø1)á €“Ó«-^
+\
+Z/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/md5/CMakeLists.txt	ìî‚ø1*¿ €“Ó«-b
+`
+^/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/openssl/CMakeLists.txt	ìî‚ø1+ç €“Ó«-^
+\
+Z/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/png/CMakeLists.txt	ìî‚ø1,à €“Ó«-c
+a
+_/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/poly2tri/CMakeLists.txt	ìî‚ø1-£ €“Ó«-a
+_
+]/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/recast/CMakeLists.txt	ìî‚ø1.İ €“Ó«-_
+]
+[/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/tiff/CMakeLists.txt	ìî‚ø1/á Ğ“Ó«-c
+a
+_/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/tinyxml2/CMakeLists.txt	ìî‚ø10µ Ğ“Ó«-`
+^
+\/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/unzip/CMakeLists.txt	ìî‚ø11™ Ğ“Ó«-]
+[
+Y/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/uv/CMakeLists.txt	ìî‚ø12İ Ğ“Ó«-_
+]
+[/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/webp/CMakeLists.txt	ìî‚ø13á Ğ“Ó«-e
+c
+a/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/websockets/CMakeLists.txt	ìî‚ø14Ş Ğ“Ó«-a
+_
+]/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/xxhash/CMakeLists.txt	ìî‚ø15’ Ğ“Ó«-`
+^
+\/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/xxtea/CMakeLists.txt	ìî‚ø16’ Ğ“Ó«-_
+]
+[/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/zlib/CMakeLists.txt	ìî‚ø17Â Ğ“Ó«-ˆ
+…
+‚/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/proj.android/app/.cxx/Debug/6w36483t/arm64-v8a/additional_project_files.txt	ìî‚ø18”º ¤ÙîÉ÷1„
+
+/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/proj.android/app/.cxx/Debug/6w36483t/arm64-v8a/android_gradle_build.json	ìî‚ø19¼Y ¥ÙîÉ÷1Š
+‡
+„/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/proj.android/app/.cxx/Debug/6w36483t/arm64-v8a/android_gradle_build_mini.json	ìî‚ø1:£U ƒÚîÉ÷1u
+s
+q/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/proj.android/app/.cxx/Debug/6w36483t/arm64-v8a/build.ninja	ìî‚ø1;¦¤ úØîÉ÷1y
+w
+u/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/proj.android/app/.cxx/Debug/6w36483t/arm64-v8a/build.ninja.txt	ìî‚ø1<~
+|
+z/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/proj.android/app/.cxx/Debug/6w36483t/arm64-v8a/build_file_index.txt	ìî‚ø1=ƒ( ±­¬É÷1
+}
+{/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/proj.android/app/.cxx/Debug/6w36483t/arm64-v8a/compile_commands.json	ìî‚ø1>·†¦ éØîÉ÷1„
+
+/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/proj.android/app/.cxx/Debug/6w36483t/arm64-v8a/compile_commands.json.bin	ìî‚ø1?™²	 éØîÉ÷1‹
+ˆ
+…/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/proj.android/app/.cxx/Debug/6w36483t/arm64-v8a/metadata_generation_command.txt	îî‚ø1@â	 ±­¬É÷1|
+z
+x/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/proj.android/app/.cxx/Debug/6w36483t/arm64-v8a/prefab_config.json	îî‚ø1A( ±­¬É÷1
+
+}/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/proj.android/app/.cxx/Debug/6w36483t/arm64-v8a/symbol_folder_index.txt	îî‚ø1B| ±­¬É÷1

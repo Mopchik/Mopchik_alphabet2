@@ -1,0 +1,1 @@
+1	4	5	Н	Н	О	Е	Т5	НОНЕТ	0	0	vertical3	ТОН	0	4	horizontal4	НЕОН	2	1	vertical4	ЕНОТ	2	2	horizontal

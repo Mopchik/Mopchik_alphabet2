@@ -1,0 +1,511 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "YXMobileAdsMediation",
+        "printedName": "YXMobileAdsMediation",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "BigoADS",
+        "printedName": "BigoADS",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "BigoADS",
+        "printedName": "BigoADS",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "BigoADS",
+        "printedName": "BigoADS",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "BigoADS",
+        "printedName": "BigoADS",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "BigoADS",
+        "printedName": "BigoADS",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "YXMobileAdsMediation",
+        "printedName": "YXMobileAdsMediation",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "BigoADS",
+        "printedName": "BigoADS",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "YXMobileAdsMediation",
+        "printedName": "YXMobileAdsMediation",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "BigoADS",
+        "printedName": "BigoADS",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "YXMobileAdsMediation",
+        "printedName": "YXMobileAdsMediation",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YXMobileAdsBase",
+        "printedName": "YXMobileAdsBase",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "BigoADS",
+        "printedName": "BigoADS",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "BigoADS",
+        "printedName": "BigoADS",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "YXMobileAdsMediation",
+        "printedName": "YXMobileAdsMediation",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "BigoADSYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BidderToken\/BigoADSBidderTokenLoader.swift",
+      "kind": "StringLiteral",
+      "offset": 100,
+      "length": 24,
+      "value": "\"BigoADSYandexMobileAdsAdapters.BigoADSBidderTokenLoader\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BigoADSAdapterInfoProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 261,
+      "length": 9,
+      "value": "\"bigoAds\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BigoADSErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 91,
+      "length": 11,
+      "value": "1"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BigoADSErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 112,
+      "length": 20,
+      "value": "2"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BigoADSErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 142,
+      "length": 13,
+      "value": "3"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BigoADSErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 165,
+      "length": 16,
+      "value": "4"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BigoADSErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 191,
+      "length": 17,
+      "value": "5"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BigoADSErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 218,
+      "length": 9,
+      "value": "6"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BigoADSErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 91,
+      "length": 11,
+      "value": "1"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BigoADSErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 112,
+      "length": 20,
+      "value": "2"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BigoADSErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 142,
+      "length": 13,
+      "value": "3"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BigoADSErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 165,
+      "length": 16,
+      "value": "4"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BigoADSErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 191,
+      "length": 17,
+      "value": "5"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BigoADSErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 218,
+      "length": 9,
+      "value": "6"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BigoADSErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 91,
+      "length": 11,
+      "value": "1"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BigoADSErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 112,
+      "length": 20,
+      "value": "2"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BigoADSErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 142,
+      "length": 13,
+      "value": "3"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BigoADSErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 165,
+      "length": 16,
+      "value": "4"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BigoADSErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 191,
+      "length": 17,
+      "value": "5"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BigoADSErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 218,
+      "length": 9,
+      "value": "6"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BigoADSErrorFactory.swift",
+      "kind": "StringLiteral",
+      "offset": 273,
+      "length": 43,
+      "value": "\"com.yandex.mobile.YandexMobileAds.BigoADS\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/BigoADSMediatedRewardedAdapter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 783,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/Configuration\/BigoADSAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 507,
+      "length": 14,
+      "value": "\"composite_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/Configuration\/BigoADSAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 549,
+      "length": 8,
+      "value": "\"app_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/Configuration\/BigoADSAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 586,
+      "length": 9,
+      "value": "\"slot_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/Configuration\/BigoADSAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 628,
+      "length": 13,
+      "value": "\"campaign_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/Configuration\/BigoADSAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 676,
+      "length": 14,
+      "value": "\"bidding_data\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/Configuration\/BigoADSAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 718,
+      "length": 8,
+      "value": "\"bid_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/Configuration\/BigoADSAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 769,
+      "length": 3,
+      "value": "\"\/\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/Native\/BigoADSMediatedNativeAdBinder.swift",
+      "kind": "FloatLiteral",
+      "offset": 158,
+      "length": 4,
+      "value": "16.0"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/Native\/BigoADSMediatedNativeAdBinder.swift",
+      "kind": "FloatLiteral",
+      "offset": 165,
+      "length": 3,
+      "value": "9.0"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/Native\/BigoADSMediatedNativeAdBinder.swift",
+      "kind": "StringLiteral",
+      "offset": 213,
+      "length": 9,
+      "value": "\"install\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/Native\/BigoADSMediatedNativeAdBinder.swift",
+      "kind": "StringLiteral",
+      "offset": 72,
+      "length": 29,
+      "value": "\"BigoADSYandexMobileAdsAdapters.BigoADSMediatedNativeAdBinder\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/BigoADSYandexMobileAdsAdapters\/Sources\/Native\/BigoADSMediatedNativeFactory.swift",
+      "kind": "StringLiteral",
+      "offset": 75,
+      "length": 28,
+      "value": "\"BigoADSYandexMobileAdsAdapters.BigoADSMediatedNativeFactory\""
+    }
+  ]
+}

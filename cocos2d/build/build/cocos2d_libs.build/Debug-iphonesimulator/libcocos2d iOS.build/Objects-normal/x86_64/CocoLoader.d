@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/build/../cocos/platform/ios/cocos2d-prefix.pch \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/editor-support/cocostudio/CocoLoader.cpp \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/editor-support/cocostudio/CocoLoader.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/document-wrapper.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/rapidjson.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/document.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/reader.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/allocators.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/stream.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/encodings.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/encodedstream.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/memorystream.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/internal/meta.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/internal/../rapidjson.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/internal/stack.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/internal/../allocators.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/internal/swap.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/internal/strtod.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/internal/ieee754.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/internal/biginteger.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/internal/diyfp.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/internal/pow10.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/error/error.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/error/../rapidjson.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/internal/strfunc.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/external/json/internal/../stream.h \
+  /Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/cocos2d/cocos/editor-support/cocostudio/CocosStudioExport.h

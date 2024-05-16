@@ -1,0 +1,457 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MTGSDK",
+        "printedName": "MTGSDK",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MTGSDKBanner",
+        "printedName": "MTGSDKBanner",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "MTGSDKBidding",
+        "printedName": "MTGSDKBidding",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "YXMobileAdsMediation",
+        "printedName": "YXMobileAdsMediation",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MTGSDKNewInterstitial",
+        "printedName": "MTGSDKNewInterstitial",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "MTGSDKReward",
+        "printedName": "MTGSDKReward",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "MTGSDK",
+        "printedName": "MTGSDK",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MTGSDK",
+        "printedName": "MTGSDK",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "MTGSDKBanner",
+        "printedName": "MTGSDKBanner",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "YXMobileAdsMediation",
+        "printedName": "YXMobileAdsMediation",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MTGSDK",
+        "printedName": "MTGSDK",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "MTGSDKNewInterstitial",
+        "printedName": "MTGSDKNewInterstitial",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "YXMobileAdsMediation",
+        "printedName": "YXMobileAdsMediation",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MTGSDKBidding",
+        "printedName": "MTGSDKBidding",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "MTGSDK",
+        "printedName": "MTGSDK",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "MTGSDKReward",
+        "printedName": "MTGSDKReward",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "YXMobileAdsMediation",
+        "printedName": "YXMobileAdsMediation",
+        "declKind": "Import",
+        "moduleName": "MintegralYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIApplication",
+        "printedName": "UIApplication",
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIApplication",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIApplication",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "NonSendable",
+          "Custom",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)UIResponder",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MintegralYandexMobileAdsAdapters\/Sources\/MintegralAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 98,
+      "length": 3,
+      "value": "\"\/\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MintegralYandexMobileAdsAdapters\/Sources\/MintegralAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 709,
+      "length": 14,
+      "value": "\"composite_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MintegralYandexMobileAdsAdapters\/Sources\/MintegralAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 745,
+      "length": 8,
+      "value": "\"app_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MintegralYandexMobileAdsAdapters\/Sources\/MintegralAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 776,
+      "length": 9,
+      "value": "\"app_key\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MintegralYandexMobileAdsAdapters\/Sources\/MintegralAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 813,
+      "length": 14,
+      "value": "\"placement_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MintegralYandexMobileAdsAdapters\/Sources\/MintegralAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 850,
+      "length": 9,
+      "value": "\"unit_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MintegralYandexMobileAdsAdapters\/Sources\/MintegralAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 926,
+      "length": 14,
+      "value": "\"bidding_data\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MintegralYandexMobileAdsAdapters\/Sources\/MintegralAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 962,
+      "length": 8,
+      "value": "\"bid_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MintegralYandexMobileAdsAdapters\/Sources\/MintegralAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 709,
+      "length": 14,
+      "value": "\"composite_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MintegralYandexMobileAdsAdapters\/Sources\/MintegralAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 745,
+      "length": 8,
+      "value": "\"app_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MintegralYandexMobileAdsAdapters\/Sources\/MintegralAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 776,
+      "length": 9,
+      "value": "\"app_key\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MintegralYandexMobileAdsAdapters\/Sources\/MintegralAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 813,
+      "length": 14,
+      "value": "\"placement_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MintegralYandexMobileAdsAdapters\/Sources\/MintegralAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 850,
+      "length": 9,
+      "value": "\"unit_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MintegralYandexMobileAdsAdapters\/Sources\/MintegralAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 926,
+      "length": 14,
+      "value": "\"bidding_data\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MintegralYandexMobileAdsAdapters\/Sources\/MintegralAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 962,
+      "length": 8,
+      "value": "\"bid_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MintegralYandexMobileAdsAdapters\/Sources\/MintegralAdapterInfoProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 264,
+      "length": 11,
+      "value": "\"mintegral\""
+    }
+  ]
+}

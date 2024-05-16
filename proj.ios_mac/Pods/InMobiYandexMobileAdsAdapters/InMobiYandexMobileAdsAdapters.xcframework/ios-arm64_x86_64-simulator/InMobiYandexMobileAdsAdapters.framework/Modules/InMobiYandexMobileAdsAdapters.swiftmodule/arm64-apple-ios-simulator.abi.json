@@ -1,0 +1,468 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "InMobiYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "InMobiYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "InMobiSDK",
+        "printedName": "InMobiSDK",
+        "declKind": "Import",
+        "moduleName": "InMobiYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "InMobiYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "InMobiYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "InMobiYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "InMobiYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "InMobiYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "InMobiSDK",
+        "printedName": "InMobiSDK",
+        "declKind": "Import",
+        "moduleName": "InMobiYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "InMobiYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "InMobiYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "InMobiYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "InMobiSDK",
+        "printedName": "InMobiSDK",
+        "declKind": "Import",
+        "moduleName": "InMobiYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "InMobiSDK",
+        "printedName": "InMobiSDK",
+        "declKind": "Import",
+        "moduleName": "InMobiYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "InMobiYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "InMobiSDK",
+        "printedName": "InMobiSDK",
+        "declKind": "Import",
+        "moduleName": "InMobiYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "InMobiYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/Configuration\/InMobiAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 320,
+      "length": 3,
+      "value": "\"\/\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/Configuration\/InMobiAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 394,
+      "length": 14,
+      "value": "\"composite_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/Configuration\/InMobiAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 430,
+      "length": 8,
+      "value": "\"app_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/Configuration\/InMobiAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 462,
+      "length": 9,
+      "value": "\"slot_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/Configuration\/InMobiAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 491,
+      "length": 14,
+      "value": "\"user_consent\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/Configuration\/InMobiAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 523,
+      "length": 8,
+      "value": "\"bid_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/Configuration\/InMobiAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 394,
+      "length": 14,
+      "value": "\"composite_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/Configuration\/InMobiAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 430,
+      "length": 8,
+      "value": "\"app_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/Configuration\/InMobiAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 462,
+      "length": 9,
+      "value": "\"slot_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/Configuration\/InMobiAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 491,
+      "length": 14,
+      "value": "\"user_consent\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/Configuration\/InMobiAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 523,
+      "length": 8,
+      "value": "\"bid_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdAdapterInfoProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 265,
+      "length": 8,
+      "value": "\"inMobi\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 109,
+      "length": 14,
+      "value": "1"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 133,
+      "length": 16,
+      "value": "2"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 159,
+      "length": 22,
+      "value": "3"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 191,
+      "length": 21,
+      "value": "4"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 222,
+      "length": 18,
+      "value": "5"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 250,
+      "length": 13,
+      "value": "6"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 273,
+      "length": 16,
+      "value": "7"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 299,
+      "length": 25,
+      "value": "8"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 334,
+      "length": 14,
+      "value": "9"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 358,
+      "length": 18,
+      "value": "10"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 386,
+      "length": 17,
+      "value": "11"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 109,
+      "length": 14,
+      "value": "1"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 133,
+      "length": 16,
+      "value": "2"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 159,
+      "length": 22,
+      "value": "3"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 191,
+      "length": 21,
+      "value": "4"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 222,
+      "length": 18,
+      "value": "5"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 250,
+      "length": 13,
+      "value": "6"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 273,
+      "length": 16,
+      "value": "7"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 299,
+      "length": 25,
+      "value": "8"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 334,
+      "length": 14,
+      "value": "9"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 358,
+      "length": 18,
+      "value": "10"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 386,
+      "length": 17,
+      "value": "11"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 109,
+      "length": 14,
+      "value": "1"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 133,
+      "length": 16,
+      "value": "2"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 159,
+      "length": 22,
+      "value": "3"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 191,
+      "length": 21,
+      "value": "4"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 222,
+      "length": 18,
+      "value": "5"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 250,
+      "length": 13,
+      "value": "6"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 273,
+      "length": 16,
+      "value": "7"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 299,
+      "length": 25,
+      "value": "8"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 334,
+      "length": 14,
+      "value": "9"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 358,
+      "length": 18,
+      "value": "10"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 386,
+      "length": 17,
+      "value": "11"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/InMobiYandexMobileAdsAdapters\/Sources\/InMobiAdErrorFactory.swift",
+      "kind": "StringLiteral",
+      "offset": 489,
+      "length": 44,
+      "value": "\"com.yandex.mobile.YandexMobileAds.InMobiAd\""
+    }
+  ]
+}

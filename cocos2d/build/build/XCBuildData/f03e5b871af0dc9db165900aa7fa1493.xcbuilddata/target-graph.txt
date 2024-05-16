@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'Mopchik_alphabet2-mobile' in project 'Mopchik_alphabet2'
+➜ Explicit dependency on target 'libcocos2d iOS' in project 'cocos2d_libs'
+Target 'libcocos2d iOS' in project 'cocos2d_libs' (no dependencies)

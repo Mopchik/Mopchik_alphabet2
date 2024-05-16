@@ -1,0 +1,14 @@
+framework module ChartboostYandexMobileAdsAdapters {
+    umbrella header "ChartboostYandexMobileAdsAdapters-umbrella.h"
+    
+    export *
+    module * { export * }
+    
+    header "YMAChartboostVersion.h"
+}
+
+module ChartboostYandexMobileAdsAdapters.Swift {
+    header "ChartboostYandexMobileAdsAdapters-Swift.h"
+    requires objc
+}
+

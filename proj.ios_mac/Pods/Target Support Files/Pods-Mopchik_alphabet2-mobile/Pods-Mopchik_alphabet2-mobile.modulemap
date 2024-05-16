@@ -1,0 +1,6 @@
+framework module Pods_Mopchik_alphabet2_mobile {
+  umbrella header "Pods-Mopchik_alphabet2-mobile-umbrella.h"
+
+  export *
+  module * { export * }
+}

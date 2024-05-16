@@ -1,0 +1,338 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "ChartboostSDK",
+        "printedName": "ChartboostSDK",
+        "declKind": "Import",
+        "moduleName": "ChartboostYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "ChartboostSDK",
+        "printedName": "ChartboostSDK",
+        "declKind": "Import",
+        "moduleName": "ChartboostYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "ChartboostYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ChartboostSDK",
+        "printedName": "ChartboostSDK",
+        "declKind": "Import",
+        "moduleName": "ChartboostYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "ChartboostYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ChartboostSDK",
+        "printedName": "ChartboostSDK",
+        "declKind": "Import",
+        "moduleName": "ChartboostYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "ChartboostYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ChartboostSDK",
+        "printedName": "ChartboostSDK",
+        "declKind": "Import",
+        "moduleName": "ChartboostYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "ChartboostSDK",
+        "printedName": "ChartboostSDK",
+        "declKind": "Import",
+        "moduleName": "ChartboostYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "ChartboostYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ChartboostSDK",
+        "printedName": "ChartboostSDK",
+        "declKind": "Import",
+        "moduleName": "ChartboostYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ChartboostYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "ChartboostYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ChartboostSDK",
+        "printedName": "ChartboostSDK",
+        "declKind": "Import",
+        "moduleName": "ChartboostYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "ChartboostYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ChartboostSDK",
+        "printedName": "ChartboostSDK",
+        "declKind": "Import",
+        "moduleName": "ChartboostYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "ChartboostYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ChartboostYandexMobileAdsAdapters"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Configuration\/ChartboostAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 177,
+      "length": 3,
+      "value": "\"\/\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Configuration\/ChartboostAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 208,
+      "length": 8,
+      "value": "\"app_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Configuration\/ChartboostAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 251,
+      "length": 15,
+      "value": "\"app_signature\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Configuration\/ChartboostAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 297,
+      "length": 10,
+      "value": "\"location\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Configuration\/ChartboostAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 341,
+      "length": 14,
+      "value": "\"composite_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Configuration\/ChartboostAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 393,
+      "length": 17,
+      "value": "\"defaultLocation\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Configuration\/ChartboostAdapterInfoProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 139,
+      "length": 12,
+      "value": "\"chartboost\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Factories\/ChartboostErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 117,
+      "length": 17,
+      "value": "1"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Factories\/ChartboostErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 144,
+      "length": 13,
+      "value": "2"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Factories\/ChartboostErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 167,
+      "length": 20,
+      "value": "3"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Factories\/ChartboostErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 197,
+      "length": 13,
+      "value": "4"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Factories\/ChartboostErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 220,
+      "length": 16,
+      "value": "5"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Factories\/ChartboostErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 246,
+      "length": 17,
+      "value": "6"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Factories\/ChartboostErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 117,
+      "length": 17,
+      "value": "1"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Factories\/ChartboostErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 144,
+      "length": 13,
+      "value": "2"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Factories\/ChartboostErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 167,
+      "length": 20,
+      "value": "3"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Factories\/ChartboostErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 197,
+      "length": 13,
+      "value": "4"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Factories\/ChartboostErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 220,
+      "length": 16,
+      "value": "5"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Factories\/ChartboostErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 246,
+      "length": 17,
+      "value": "6"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Factories\/ChartboostErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 117,
+      "length": 17,
+      "value": "1"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Factories\/ChartboostErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 144,
+      "length": 13,
+      "value": "2"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Factories\/ChartboostErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 167,
+      "length": 20,
+      "value": "3"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Factories\/ChartboostErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 197,
+      "length": 13,
+      "value": "4"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Factories\/ChartboostErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 220,
+      "length": 16,
+      "value": "5"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Factories\/ChartboostErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 246,
+      "length": 17,
+      "value": "6"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/ChartboostYandexMobileAdsAdapters\/Sources\/Factories\/ChartboostErrorFactory.swift",
+      "kind": "StringLiteral",
+      "offset": 312,
+      "length": 46,
+      "value": "\"com.yandex.mobile.YandexMobileAds.Chartboost\""
+    }
+  ]
+}

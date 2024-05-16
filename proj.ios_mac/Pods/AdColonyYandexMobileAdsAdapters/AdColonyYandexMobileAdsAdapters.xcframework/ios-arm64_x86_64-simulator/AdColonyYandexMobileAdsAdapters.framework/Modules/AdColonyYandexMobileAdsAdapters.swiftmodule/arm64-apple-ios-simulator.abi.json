@@ -1,0 +1,274 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "AdColony",
+        "printedName": "AdColony",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AdColony",
+        "printedName": "AdColony",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AdColony",
+        "printedName": "AdColony",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AdColony",
+        "printedName": "AdColony",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "AdColony",
+        "printedName": "AdColony",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "AdColony",
+        "printedName": "AdColony",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "AdColony",
+        "printedName": "AdColony",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YXMobileAdsBase",
+        "printedName": "YXMobileAdsBase",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AdColony",
+        "printedName": "AdColony",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "AdColony",
+        "printedName": "AdColony",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AdColony",
+        "printedName": "AdColony",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AdColony",
+        "printedName": "AdColony",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "AdColonyYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/AdColonyYandexMobileAdsAdapters\/Sources\/AdColonyAdapterInfoProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 92,
+      "length": 10,
+      "value": "\"adcolony\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/AdColonyYandexMobileAdsAdapters\/Sources\/AdColonyAppOptionsFactory.swift",
+      "kind": "StringLiteral",
+      "offset": 89,
+      "length": 8,
+      "value": "\"Yandex\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/AdColonyYandexMobileAdsAdapters\/Sources\/AdColonySDKInitializer.swift",
+      "kind": "Array",
+      "offset": 484,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/AdColonyYandexMobileAdsAdapters\/Sources\/AdColonySDKInitializer.swift",
+      "kind": "Array",
+      "offset": 535,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/AdColonyYandexMobileAdsAdapters\/Sources\/AdColonySDKInitializer.swift",
+      "kind": "Dictionary",
+      "offset": 611,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/AdColonyYandexMobileAdsAdapters\/Sources\/AdColonySDKInitializer.swift",
+      "kind": "Array",
+      "offset": 679,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/AdColonyYandexMobileAdsAdapters\/Sources\/Configuration\/AdColonyAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 77,
+      "length": 9,
+      "value": "\"zone_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/AdColonyYandexMobileAdsAdapters\/Sources\/Configuration\/AdColonyAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 118,
+      "length": 8,
+      "value": "\"app_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/AdColonyYandexMobileAdsAdapters\/Sources\/Configuration\/AdColonyAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 164,
+      "length": 14,
+      "value": "\"composite_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/AdColonyYandexMobileAdsAdapters\/Sources\/Configuration\/AdColonyAdConfigurationParser.swift",
+      "kind": "StringLiteral",
+      "offset": 215,
+      "length": 3,
+      "value": "\"\/\""
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$/../../../../Classes">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Classes" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../cocos2d/cmake/Modules">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../cocos2d/cmake/Modules" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../cocos2d/cocos">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../cocos2d/cocos" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../cocos2d/extensions">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../cocos2d/extensions" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../cocos2d/external">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../cocos2d/external" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../app/jni/mopchikcpp">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/jni/mopchikcpp" type="native-Source-root" />
+    </content>
+  </component>
+</module>

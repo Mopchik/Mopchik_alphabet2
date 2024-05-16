@@ -1,0 +1,740 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YXMobileAdsLogging",
+        "printedName": "YXMobileAdsLogging",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsAdMobAdapters"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "YandexAdMobCustomEventNativeAdView",
+        "printedName": "YandexAdMobCustomEventNativeAdView",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "nativeAgeLabel",
+            "printedName": "nativeAgeLabel()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UILabel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UILabel",
+                    "printedName": "UIKit.UILabel",
+                    "usr": "c:objc(cs)UILabel"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@YandexMobileAdsAdMobAdapters@objc(pl)YMAAdMobCustomEventNativeAdView(im)nativeAgeLabel",
+            "mangledName": "$s28YandexMobileAdsAdMobAdapters0ade17CustomEventNativeD4ViewP14nativeAgeLabelSo7UILabelCSgyF",
+            "moduleName": "YandexMobileAdsAdMobAdapters",
+            "genericSig": "<τ_0_0 where τ_0_0 : YandexMobileAdsAdMobAdapters.YandexAdMobCustomEventNativeAdView>",
+            "sugared_genericSig": "<Self where Self : YandexMobileAdsAdMobAdapters.YandexAdMobCustomEventNativeAdView>",
+            "protocolReq": true,
+            "declAttributes": [
+              "Optional",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "nativeFaviconImageView",
+            "printedName": "nativeFaviconImageView()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImageView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImageView",
+                    "printedName": "UIKit.UIImageView",
+                    "usr": "c:objc(cs)UIImageView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@YandexMobileAdsAdMobAdapters@objc(pl)YMAAdMobCustomEventNativeAdView(im)nativeFaviconImageView",
+            "mangledName": "$s28YandexMobileAdsAdMobAdapters0ade17CustomEventNativeD4ViewP018nativeFaviconImageJ0So07UIImageJ0CSgyF",
+            "moduleName": "YandexMobileAdsAdMobAdapters",
+            "genericSig": "<τ_0_0 where τ_0_0 : YandexMobileAdsAdMobAdapters.YandexAdMobCustomEventNativeAdView>",
+            "sugared_genericSig": "<Self where Self : YandexMobileAdsAdMobAdapters.YandexAdMobCustomEventNativeAdView>",
+            "protocolReq": true,
+            "declAttributes": [
+              "Optional",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "nativeImageView",
+            "printedName": "nativeImageView()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImageView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImageView",
+                    "printedName": "UIKit.UIImageView",
+                    "usr": "c:objc(cs)UIImageView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@YandexMobileAdsAdMobAdapters@objc(pl)YMAAdMobCustomEventNativeAdView(im)nativeImageView",
+            "mangledName": "$s28YandexMobileAdsAdMobAdapters0ade17CustomEventNativeD4ViewP011nativeImageJ0So07UIImageJ0CSgyF",
+            "moduleName": "YandexMobileAdsAdMobAdapters",
+            "genericSig": "<τ_0_0 where τ_0_0 : YandexMobileAdsAdMobAdapters.YandexAdMobCustomEventNativeAdView>",
+            "sugared_genericSig": "<Self where Self : YandexMobileAdsAdMobAdapters.YandexAdMobCustomEventNativeAdView>",
+            "protocolReq": true,
+            "declAttributes": [
+              "Optional",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "nativeRatingView",
+            "printedName": "nativeRatingView()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(UIKit.UIView & YandexMobileAds.YMARating)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "UIKit.UIView & YandexMobileAds.YMARating"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@YandexMobileAdsAdMobAdapters@objc(pl)YMAAdMobCustomEventNativeAdView(im)nativeRatingView",
+            "mangledName": "$s28YandexMobileAdsAdMobAdapters0ade17CustomEventNativeD4ViewP012nativeRatingJ0So9YMARating_So6UIViewCXcSgyF",
+            "moduleName": "YandexMobileAdsAdMobAdapters",
+            "genericSig": "<τ_0_0 where τ_0_0 : YandexMobileAdsAdMobAdapters.YandexAdMobCustomEventNativeAdView>",
+            "sugared_genericSig": "<Self where Self : YandexMobileAdsAdMobAdapters.YandexAdMobCustomEventNativeAdView>",
+            "protocolReq": true,
+            "declAttributes": [
+              "Optional",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "nativeReviewCountLabel",
+            "printedName": "nativeReviewCountLabel()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UILabel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UILabel",
+                    "printedName": "UIKit.UILabel",
+                    "usr": "c:objc(cs)UILabel"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@YandexMobileAdsAdMobAdapters@objc(pl)YMAAdMobCustomEventNativeAdView(im)nativeReviewCountLabel",
+            "mangledName": "$s28YandexMobileAdsAdMobAdapters0ade17CustomEventNativeD4ViewP22nativeReviewCountLabelSo7UILabelCSgyF",
+            "moduleName": "YandexMobileAdsAdMobAdapters",
+            "genericSig": "<τ_0_0 where τ_0_0 : YandexMobileAdsAdMobAdapters.YandexAdMobCustomEventNativeAdView>",
+            "sugared_genericSig": "<Self where Self : YandexMobileAdsAdMobAdapters.YandexAdMobCustomEventNativeAdView>",
+            "protocolReq": true,
+            "declAttributes": [
+              "Optional",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "nativeWarningLabel",
+            "printedName": "nativeWarningLabel()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UILabel?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UILabel",
+                    "printedName": "UIKit.UILabel",
+                    "usr": "c:objc(cs)UILabel"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@YandexMobileAdsAdMobAdapters@objc(pl)YMAAdMobCustomEventNativeAdView(im)nativeWarningLabel",
+            "mangledName": "$s28YandexMobileAdsAdMobAdapters0ade17CustomEventNativeD4ViewP18nativeWarningLabelSo7UILabelCSgyF",
+            "moduleName": "YandexMobileAdsAdMobAdapters",
+            "genericSig": "<τ_0_0 where τ_0_0 : YandexMobileAdsAdMobAdapters.YandexAdMobCustomEventNativeAdView>",
+            "sugared_genericSig": "<Self where Self : YandexMobileAdsAdMobAdapters.YandexAdMobCustomEventNativeAdView>",
+            "protocolReq": true,
+            "declAttributes": [
+              "Optional",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "nativeFeedbackButton",
+            "printedName": "nativeFeedbackButton()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIButton?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIButton",
+                    "printedName": "UIKit.UIButton",
+                    "usr": "c:objc(cs)UIButton"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@YandexMobileAdsAdMobAdapters@objc(pl)YMAAdMobCustomEventNativeAdView(im)nativeFeedbackButton",
+            "mangledName": "$s28YandexMobileAdsAdMobAdapters0ade17CustomEventNativeD4ViewP20nativeFeedbackButtonSo8UIButtonCSgyF",
+            "moduleName": "YandexMobileAdsAdMobAdapters",
+            "genericSig": "<τ_0_0 where τ_0_0 : YandexMobileAdsAdMobAdapters.YandexAdMobCustomEventNativeAdView>",
+            "sugared_genericSig": "<Self where Self : YandexMobileAdsAdMobAdapters.YandexAdMobCustomEventNativeAdView>",
+            "protocolReq": true,
+            "declAttributes": [
+              "Optional",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "c:@M@YandexMobileAdsAdMobAdapters@objc(pl)YMAAdMobCustomEventNativeAdView",
+        "mangledName": "$s28YandexMobileAdsAdMobAdapters0ade17CustomEventNativeD4ViewP",
+        "moduleName": "YandexMobileAdsAdMobAdapters",
+        "genericSig": "<τ_0_0 : ObjectiveC.NSObjectProtocol>",
+        "sugared_genericSig": "<Self : ObjectiveC.NSObjectProtocol>",
+        "objc_name": "YMAAdMobCustomEventNativeAdView",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC",
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsAdMobAdapters\/Sources\/Private\/AdapterVersion\/YandexAdMobAdRequestParametersProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 110,
+      "length": 22,
+      "value": "\"adapter_network_name\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsAdMobAdapters\/Sources\/Private\/AdapterVersion\/YandexAdMobAdRequestParametersProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 186,
+      "length": 29,
+      "value": "\"adapter_network_sdk_version\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsAdMobAdapters\/Sources\/Private\/AdapterVersion\/YandexAdMobAdRequestParametersProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 259,
+      "length": 17,
+      "value": "\"adapter_version\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsAdMobAdapters\/Sources\/Private\/AdapterVersion\/YandexAdMobAdRequestParametersProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 321,
+      "length": 7,
+      "value": "\"admob\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsAdMobAdapters\/Sources\/Private\/Logging\/YandexAdMobAdapterIntegrationLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 175,
+      "length": 48,
+      "value": "\"com.yandex.mobile.YandexMobileAdsAdMobAdapters\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsAdMobAdapters\/Sources\/Private\/Logging\/YandexAdMobAdapterIntegrationLogger.swift",
+      "kind": "BooleanLiteral",
+      "offset": 562,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsAdMobAdapters\/Sources\/Private\/YandexAdMobCallToActionBinder.swift",
+      "kind": "BooleanLiteral",
+      "offset": 105,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsAdMobAdapters\/Sources\/Private\/YandexAdMobCustomEventBanner.swift",
+      "kind": "BooleanLiteral",
+      "offset": 522,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsAdMobAdapters\/Sources\/Private\/YandexAdMobCustomEventErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 88,
+      "length": 21,
+      "value": "1"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsAdMobAdapters\/Sources\/Private\/YandexAdMobCustomEventErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 88,
+      "length": 21,
+      "value": "1"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsAdMobAdapters\/Sources\/Private\/YandexAdMobCustomEventErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 88,
+      "length": 21,
+      "value": "1"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsAdMobAdapters\/Sources\/Private\/YandexAdMobCustomEventErrorFactory.swift",
+      "kind": "StringLiteral",
+      "offset": 153,
+      "length": 41,
+      "value": "\"com.yandex.mobile.AdMob.YandexMobileAds\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsAdMobAdapters\/Sources\/Private\/YandexAdMobCustomEventNative.swift",
+      "kind": "BooleanLiteral",
+      "offset": 701,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsAdMobAdapters\/Sources\/Private\/YandexAdMobUnifiedNativeAd.swift",
+      "kind": "StringLiteral",
+      "offset": 87,
+      "length": 26,
+      "value": "\"YandexMobileAdsAdMobAdapters.YandexAdMobUnifiedNativeAd\""
+    }
+  ]
+}

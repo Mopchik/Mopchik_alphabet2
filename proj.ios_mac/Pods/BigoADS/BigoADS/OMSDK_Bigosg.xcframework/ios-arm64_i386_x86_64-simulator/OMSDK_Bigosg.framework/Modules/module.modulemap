@@ -1,0 +1,4 @@
+module OMSDK_Bigosg {
+    header "Headers/OMIDImports.h"
+    export *
+}

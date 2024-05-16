@@ -1,0 +1,44 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "0d2a1f7cfc80ac42240c8891272cd83a0fa8628908142c1784945aff676e527f"
+    }
+  ],
+  "containerPath" : "/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/proj.ios_mac/Mopchik_alphabet2.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "ARCHS" : "x86_64",
+          "CONFIGURATION_BUILD_DIR" : "/Users/andreyvesnin/Documents/GitHub/Mopchik_alphabet2/bin/debug/ios",
+          "SDKROOT" : "iphonesimulator17.0",
+          "VALID_ARCHS" : "i386 x86_64"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "COLOR_DIAGNOSTICS" : "YES",
+          "diagnostic_message_length" : "80",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

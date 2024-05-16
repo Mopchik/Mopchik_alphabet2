@@ -1,0 +1,231 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "IronSource",
+        "printedName": "IronSource",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsIronSourceAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsIronSourceAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsIronSourceAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "IronSource",
+        "printedName": "IronSource",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsIronSourceAdapters",
+        "declAttributes": [
+          "ImplementationOnly",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IronSource",
+        "printedName": "IronSource",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsIronSourceAdapters",
+        "declAttributes": [
+          "ImplementationOnly",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsIronSourceAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IronSource",
+        "printedName": "IronSource",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsIronSourceAdapters",
+        "declAttributes": [
+          "ImplementationOnly",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsIronSourceAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "IronSource",
+        "printedName": "IronSource",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsIronSourceAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsIronSourceAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsIronSourceAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YXMobileAdsLogging",
+        "printedName": "YXMobileAdsLogging",
+        "declKind": "Import",
+        "moduleName": "YandexMobileAdsIronSourceAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsIronSourceAdapters\/Sources\/Private\/Configuration\/AdData\/IronSourceAdDataParser.swift",
+      "kind": "StringLiteral",
+      "offset": 111,
+      "length": 10,
+      "value": "\"adUnitId\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsIronSourceAdapters\/Sources\/Private\/Configuration\/AdData\/IronSourceAdDataParser.swift",
+      "kind": "StringLiteral",
+      "offset": 161,
+      "length": 9,
+      "value": "\"blockId\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsIronSourceAdapters\/Sources\/Private\/Configuration\/AdData\/IronSourceAdDataParser.swift",
+      "kind": "StringLiteral",
+      "offset": 223,
+      "length": 16,
+      "value": "\"openLinksInApp\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsIronSourceAdapters\/Sources\/Private\/Factories\/IronSourceErrorFactory.swift",
+      "kind": "StringLiteral",
+      "offset": 63,
+      "length": 46,
+      "value": "\"com.yandex.mobile.YandexMobileAds.IronSource\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsIronSourceAdapters\/Sources\/Private\/Factories\/IronSourceErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 191,
+      "length": 21,
+      "value": "1"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsIronSourceAdapters\/Sources\/Private\/Factories\/IronSourceErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 191,
+      "length": 21,
+      "value": "1"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsIronSourceAdapters\/Sources\/Private\/Factories\/IronSourceErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 191,
+      "length": 21,
+      "value": "1"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsIronSourceAdapters\/Sources\/Private\/FixedClassNames\/ISYandexCustomInterstitial.swift",
+      "kind": "StringLiteral",
+      "offset": 330,
+      "length": 26,
+      "value": "\"YandexMobileAdsIronSourceAdapters.ISYandexCustomInterstitial\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsIronSourceAdapters\/Sources\/Private\/FixedClassNames\/ISYandexCustomRewardedVideo.swift",
+      "kind": "StringLiteral",
+      "offset": 331,
+      "length": 27,
+      "value": "\"YandexMobileAdsIronSourceAdapters.ISYandexCustomRewardedVideo\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsIronSourceAdapters\/Sources\/Private\/IronSourceAdRequestParametersProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 146,
+      "length": 22,
+      "value": "\"adapter_network_name\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsIronSourceAdapters\/Sources\/Private\/IronSourceAdRequestParametersProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 235,
+      "length": 29,
+      "value": "\"adapter_network_sdk_version\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsIronSourceAdapters\/Sources\/Private\/IronSourceAdRequestParametersProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 321,
+      "length": 17,
+      "value": "\"adapter_version\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsIronSourceAdapters\/Sources\/Private\/IronSourceAdRequestParametersProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 396,
+      "length": 12,
+      "value": "\"ironsource\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsIronSourceAdapters\/Sources\/Private\/Logging\/IronSourceAdapterIntegrationLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 174,
+      "length": 53,
+      "value": "\"com.yandex.mobile.YandexMobileAdsIronSourceAdapters\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/YandexMobileAdsIronSourceAdapters\/Sources\/Private\/Logging\/IronSourceAdapterIntegrationLogger.swift",
+      "kind": "BooleanLiteral",
+      "offset": 577,
+      "length": 5,
+      "value": "false"
+    }
+  ]
+}

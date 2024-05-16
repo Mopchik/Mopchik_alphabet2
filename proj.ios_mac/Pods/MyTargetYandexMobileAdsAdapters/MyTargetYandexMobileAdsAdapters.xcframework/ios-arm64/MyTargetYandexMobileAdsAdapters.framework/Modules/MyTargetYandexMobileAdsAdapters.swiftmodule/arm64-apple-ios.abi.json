@@ -1,0 +1,510 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "MyTargetSDK",
+        "printedName": "MyTargetSDK",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YXMobileAdsMediation",
+        "printedName": "YXMobileAdsMediation",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "MyTargetSDK",
+        "printedName": "MyTargetSDK",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "MyTargetSDK",
+        "printedName": "MyTargetSDK",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "MyTargetSDK",
+        "printedName": "MyTargetSDK",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "MyTargetSDK",
+        "printedName": "MyTargetSDK",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "MyTargetSDK",
+        "printedName": "MyTargetSDK",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "MyTargetSDK",
+        "printedName": "MyTargetSDK",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "MyTargetSDK",
+        "printedName": "MyTargetSDK",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YXMobileAdsMediation",
+        "printedName": "YXMobileAdsMediation",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "MyTargetSDK",
+        "printedName": "MyTargetSDK",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YXMobileAdsMediation",
+        "printedName": "YXMobileAdsMediation",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "MyTargetSDK",
+        "printedName": "MyTargetSDK",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YXMobileAdsMediation",
+        "printedName": "YXMobileAdsMediation",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "MyTargetSDK",
+        "printedName": "MyTargetSDK",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YXMobileAdsMediation",
+        "printedName": "YXMobileAdsMediation",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "MyTargetSDK",
+        "printedName": "MyTargetSDK",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "MyTargetSDK",
+        "printedName": "MyTargetSDK",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "MyTargetSDK",
+        "printedName": "MyTargetSDK",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "YandexMobileAds",
+        "printedName": "YandexMobileAds",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTargetYandexMobileAdsAdapters"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/Common\/MyTargetAdapterInfoProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 102,
+      "length": 10,
+      "value": "\"mytarget\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/Common\/MyTargetBidderTokenLoader.swift",
+      "kind": "StringLiteral",
+      "offset": 141,
+      "length": 53,
+      "value": "\"com.yandex.mobile.ads.mytarget.bidding.token.loader\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/Factories\/MyTargetErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 88,
+      "length": 20,
+      "value": "1"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/Factories\/MyTargetErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 118,
+      "length": 29,
+      "value": "2"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/Factories\/MyTargetErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 157,
+      "length": 30,
+      "value": "3"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/Factories\/MyTargetErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 88,
+      "length": 20,
+      "value": "1"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/Factories\/MyTargetErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 118,
+      "length": 29,
+      "value": "2"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/Factories\/MyTargetErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 157,
+      "length": 30,
+      "value": "3"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/Factories\/MyTargetErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 88,
+      "length": 20,
+      "value": "1"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/Factories\/MyTargetErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 118,
+      "length": 29,
+      "value": "2"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/Factories\/MyTargetErrorFactory.swift",
+      "kind": "IntegerLiteral",
+      "offset": 157,
+      "length": 30,
+      "value": "3"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/Factories\/MyTargetErrorFactory.swift",
+      "kind": "StringLiteral",
+      "offset": 234,
+      "length": 44,
+      "value": "\"com.yandex.mobile.YandexMobileAds.MyTarget\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/MyTargetCustomParametersConfigurator.swift",
+      "kind": "StringLiteral",
+      "offset": 105,
+      "length": 10,
+      "value": "\"keywords\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/MyTargetCustomParametersConfigurator.swift",
+      "kind": "StringLiteral",
+      "offset": 161,
+      "length": 11,
+      "value": "\"mediation\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/MyTargetCustomParametersConfigurator.swift",
+      "kind": "StringLiteral",
+      "offset": 219,
+      "length": 3,
+      "value": "\"3\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/MyTargetMediatedRewardedAdapter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 137,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/MyTargetPropertyExtractor.swift",
+      "kind": "StringLiteral",
+      "offset": 96,
+      "length": 3,
+      "value": "\",\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/MyTargetPropertyExtractor.swift",
+      "kind": "StringLiteral",
+      "offset": 137,
+      "length": 14,
+      "value": "\"bidding_data\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/MyTargetPropertyExtractor.swift",
+      "kind": "StringLiteral",
+      "offset": 183,
+      "length": 8,
+      "value": "\"bid_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/MyTargetPropertyExtractor.swift",
+      "kind": "StringLiteral",
+      "offset": 224,
+      "length": 9,
+      "value": "\"slot_id\""
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/Native\/MyTargetMediationNativeAdBinder.swift",
+      "kind": "FloatLiteral",
+      "offset": 124,
+      "length": 4,
+      "value": "16.0"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/Native\/MyTargetMediationNativeAdBinder.swift",
+      "kind": "FloatLiteral",
+      "offset": 131,
+      "length": 3,
+      "value": "9.0"
+    },
+    {
+      "filePath": "\/usr\/local\/place\/sandbox-data\/tasks\/1\/9\/1900399991\/arcadia\/adv\/pcode\/mobileadssdk\/sdk\/ios\/library\/MobileAds\/Products\/Adapters\/MyTargetYandexMobileAdsAdapters\/Sources\/Private\/Native\/MyTargetMediationNativeAdBinder.swift",
+      "kind": "StringLiteral",
+      "offset": 142,
+      "length": 31,
+      "value": "\"MyTargetYandexMobileAdsAdapters.MyTargetMediationNativeAdBinder\""
+    }
+  ]
+}
